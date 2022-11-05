@@ -255,7 +255,7 @@ Nota: la funzione è disponibile solo per gli 'Utenti Master/Amministratori'!"/>
 
         <text name="easyDevControls_superStrengthTitle" text="Super Forza"/>
         <text name="easyDevControls_jumpMultiplierTitle" text="Moltiplicatore di salto"/>
-        <text name="easyDevControls_thirdPersonViewTitle" text="Moltiplicatore di salto"/>
+        <text name="easyDevControls_thirdPersonViewTitle" text="Visuale 3° Persona"/>
         <text name="easyDevControls_woodCuttingMarkerTitle" text="Marcatore di taglio del legno"/>
         <text name="easyDevControls_aimOverlayTitle" text="Marcatore di mira"/>
         <text name="easyDevControls_runSpeedTitle" text="Moltiplicatore di corsa"/>
