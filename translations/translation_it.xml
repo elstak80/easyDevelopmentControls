@@ -504,6 +504,7 @@ Livello di riempimento:
         <text name="easyDevControls_refreshFieldOverlayTitle" text="Sovrapposizione Campo PDA"/>
         <text name="easyDevControls_addRemoveWeedsStonesTitle" text="Pietre &amp; Erbacce"/> <!-- &amp;   This is equal to using the & symbol in XML-->
         <text name="easyDevControls_debugFieldStatusTitle" text="Debug Stato Campo"/>
+        <text name="easyDevControls_vineSystemDebugTitle" text="Debug Sistema Vite"/>
         <text name="easyDevControls_stoneSystemDebugTitle" text="Debug Pietre del Campo"/>
 
         <!-- Fields Frame Info -->
